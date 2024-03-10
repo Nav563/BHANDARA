@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">BHANDARA</string>
+    <string name="current_location">Current Location</string>
+    <string name="search_for_bhandara">Search for Bhandara</string>
+    <string name="enjoy_bhandara_every_day">Enjoy Bhandara Every Day</string>
+    <string name="celebrate_with_bhandara_app">Celebrate with Bhandara App</string>
+    <string name="home">Home</string>
+    <string name="user_profile">User Profile</string>
+    <string name="daily_bhandara_post">Daily Bhandara Post</string>
+    <string name="my_booked_chef_list">My Booked Chef List</string>
+    <string name="share_with_friends">Share with Friends</string>
+    <string name="send">Send</string>
+    <string name="contact_bhandara_app_support">Contact Bhandara App Support</string>
+    <string name="rate_bhandara_app">Rate Bhandara App</string>
+    <string name="logout">Logout</string>
+    <string name="login">Login</string>
+    <string name="signup">SignUp</string>
+    <string name="app_version">App Version : </string>
+    <string name="communicate">Communicate</string>
+    <string name="feed_back">FeedBack</string>
+    <string name="bhandara">Bhandara</string>
+    <string name="edit_profile">Edit Profile</string>
+    <string name="name">Name</string>
+    <string name="email">Email</string>
+    <string name="mobile">Mobile No.</string>
+    <string name="password">Password</string>
+    <string name="bio">Bio</string>
+    <string name="profession">Profession</string>
+    <string name="save">SAVE</string>
+    <string name="daily_bhandara">DAILY BHANDARA</string>
+    <string name="recent_bhandara">RECENT BHANDARA</string>
+    <string name="hide_password">Hide password</string>
+    <string name="show_password">Show password</string>
+
+</resources>

@@ -1,0 +1,78 @@
+{
+  "project_info": {
+    "project_number": "667967746321",
+    "firebase_url": "https://free-food---like-bhandara-default-rtdb.firebaseio.com",
+    "project_id": "free-food---like-bhandara",
+    "storage_bucket": "free-food---like-bhandara.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:667967746321:android:28ce6aa608c5d2daf8dcb0",
+        "android_client_info": {
+          "package_name": "com.example.bhandara"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "667967746321-o1nmhpng93cifqi05de1e1vvkeekje1q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHcAMSw2LREIwK7pKxT_K3mxoU7Dlxs5A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "667967746321-o1nmhpng93cifqi05de1e1vvkeekje1q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:667967746321:android:2cb102696208e45df8dcb0",
+        "android_client_info": {
+          "package_name": "com.example.freefood_likebhandara"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "667967746321-vbpudoa18bskjhagdpdhlkpfuejgj00l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.freefood_likebhandara",
+            "certificate_hash": "67f0134de59bc073ec3f840d63f58bf7c78573b0"
+          }
+        },
+        {
+          "client_id": "667967746321-o1nmhpng93cifqi05de1e1vvkeekje1q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHcAMSw2LREIwK7pKxT_K3mxoU7Dlxs5A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "667967746321-o1nmhpng93cifqi05de1e1vvkeekje1q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      },
+      "admob_app_id": "ca-app-pub-8240465965818969~3460935494"
+    }
+  ],
+  "configuration_version": "1"
+}
